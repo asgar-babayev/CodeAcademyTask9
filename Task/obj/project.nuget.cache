@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4Y4UrFQrgx5HIoET7FCt8QFM8saoBE2lRqrvtAnW5GpnVG8R6LrD2SNC7t+jbUA/i7uDj3RLHQTgYpqf3rx9RA==",
+  "dgSpecHash": "hWr6GIVqtsafct1O+QKJOziZ8YS+2fmCtJhJ9FiC12zbtHiJXGzLxGOUCUc5UHyOPbX9zXhVKWxdevT9GDaDOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tu7609td3\\source\\repos\\Task\\Task\\Task.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\CodeAcademyTask9\\Task\\Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

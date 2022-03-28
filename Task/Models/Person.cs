@@ -8,6 +8,6 @@ namespace Task.Models
     {
         public string Name { get; set; }
         public string Surname { get; set; }
-        public int Age { get; set; }
+        public abstract int Age { get; set; }
     }
 }
